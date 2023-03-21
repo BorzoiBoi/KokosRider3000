@@ -5,7 +5,7 @@ class pauseGame extends Phaser.Scene {
 
 	preload()
 	{
-		//NIGGET
+		//nugget*
 		this.load.image('button_back', 'assets/images/button_back.png');
 		this.load.image('button_back_pressed', 'assets/images/button_back_pressed.png');
 		this.load.image('button_play', 'assets/images/button_play.png');
